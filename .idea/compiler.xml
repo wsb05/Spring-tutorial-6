@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="blog" target="1.8" />
+      <module name="blog.main" target="1.8" />
+      <module name="blog.test" target="1.8" />
+      <module name="chat-kotlin" target="11" />
+      <module name="chat-kotlin.main" target="11" />
+      <module name="chat-kotlin.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
